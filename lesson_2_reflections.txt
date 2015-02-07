@@ -9,3 +9,13 @@ you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	I can use the staging area to put only the files I want to commit in.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+	Branches would be helpful when you want to make some experimental changes, but would still like
+to have a working version of your code or when you just want a different version of your code.
+Branches help by allowing you to make separate commits to the different versions.
+
+How do the diagrams help you visualize the branch structure?
+	I makes literal branches that you can trace back to see all of the commits on that
+	branch.
