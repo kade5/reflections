@@ -19,3 +19,8 @@ Branches help by allowing you to make separate commits to the different versions
 How do the diagrams help you visualize the branch structure?
 	I makes literal branches that you can trace back to see all of the commits on that
 	branch.
+	
+What is the result of merging two branches together? Why do we represent it in the diagram 
+the way we do?
+	Merging two branches merges all of the files in each commit together and combines their
+	commits. We represent it in the diagram as the merged branch pointing to both branches.
