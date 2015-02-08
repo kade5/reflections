@@ -22,3 +22,9 @@ harder?
 	Collaborating without using Git or Github would be much harder. You would have to send files
 	to each other and fix any conflicts manually. It would also be nearly impossible to revert
 	any changes.
+	
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+	You would use a separate branch than the master for several reasons including when your
+	collaborating and need feedback before modifying master, or when you need to add new code
+	but don't want to break the working master version.
